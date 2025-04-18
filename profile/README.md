@@ -12,29 +12,31 @@
 -->
 
 # 백준 문제 풀이 목록
-
+### 이모티콘 
+- 🔜 다음 모임까지 풀어야 할 문제
+- ✅ 코드리뷰 마친 문제
 ## 📚 Week 1
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 2744 | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) |
-| 1919 | [애너그램 만들기](https://www.acmicpc.net/problem/1919) |
-| 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) |
-| 1543 | [문서 검색](https://www.acmicpc.net/problem/1543) |
-| 13223 | [소금 폭탄](https://www.acmicpc.net/problem/13223) |
+| 2744 | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) ✅|
+| 1919 | [애너그램 만들기](https://www.acmicpc.net/problem/1919) ✅|
+| 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) ✅|
+| 1543 | [문서 검색](https://www.acmicpc.net/problem/1543) ✅|
+| 13223 | [소금 폭탄](https://www.acmicpc.net/problem/13223) ✅|
 
 ## 📚 Week 2
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 10158 | [개미](https://www.acmicpc.net/problem/10158) |
-| 1236 | [성 지키기](https://www.acmicpc.net/problem/1236) |
-| 10431 | [줄세우기](https://www.acmicpc.net/problem/10431) |
-| 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) |
-| 3273 | [두 수의 합](https://www.acmicpc.net/problem/3273) |
+| 10158 | [개미](https://www.acmicpc.net/problem/10158) ✅|
+| 1236 | [성 지키기](https://www.acmicpc.net/problem/1236) ✅|
+| 10431 | [줄세우기](https://www.acmicpc.net/problem/10431)✅ |
+| 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) ✅ |
+| 3273 | [두 수의 합](https://www.acmicpc.net/problem/3273) 🔜|
 
 ## 📚 Week 3
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 10448 | [유레카 이론](https://www.acmicpc.net/problem/10448) |
+| 10448 | [유레카 이론](https://www.acmicpc.net/problem/10448) 🔜|
 | 11005 | [진법 변환 2](https://www.acmicpc.net/problem/11005) |
 | 11068 | [회문인 수](https://www.acmicpc.net/problem/11068) |
 | 3058 | [사탕 게임](https://www.acmicpc.net/problem/3058) |
