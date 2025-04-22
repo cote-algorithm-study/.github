@@ -1,21 +1,28 @@
 ## 알고리즘 스터디 👋
 
-<!--
+백준 문제를 주차별로 정해 풀고, 리뷰하는 알고리즘 스터디입니다.  
+함께 성장하며 문제해결력을 키우는 걸 목표로 합니다 💪
 
-**Here are some ideas to get you started:**
+### 📌 스터디 방식
+- 매주 5문제 선정
+- 매주 화, 목 문제 풀이 완료
+- 코드 리뷰 필수 (✅ 표시)
+- 새로운 문제는 🔜 표시
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🗂️ 이모지 안내
 
-# 백준 문제 풀이 목록
-### 이모티콘 
-- 🔜 다음 모임까지 풀어야 할 문제
-- ✅ 코드리뷰 마친 문제
-## 📚 Week 1
+| 이모지 | 의미                     |
+|--------|--------------------------|
+| 🔜     | 다음 모임까지 풀어야 할 문제 |
+| ✅     | 코드리뷰 마친 문제             |
+
+---
+
+# 💻 백준 문제 풀이 목록
+
+<details>
+<summary>📚 Week 1 ✅ </summary>
+
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
 | 2744 | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) ✅|
@@ -24,25 +31,37 @@
 | 1543 | [문서 검색](https://www.acmicpc.net/problem/1543) ✅|
 | 13223 | [소금 폭탄](https://www.acmicpc.net/problem/13223) ✅|
 
-## 📚 Week 2
+</details>
+
+<details>
+<summary>📚 Week 2 ✅ </summary>
+
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
 | 10158 | [개미](https://www.acmicpc.net/problem/10158) ✅|
 | 1236 | [성 지키기](https://www.acmicpc.net/problem/1236) ✅|
-| 10431 | [줄세우기](https://www.acmicpc.net/problem/10431)✅ |
-| 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) ✅ |
-| 3273 | [두 수의 합](https://www.acmicpc.net/problem/3273) 🔜|
+| 10431 | [줄세우기](https://www.acmicpc.net/problem/10431) ✅|
+| 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) ✅|
+| 3273 | [두 수의 합](https://www.acmicpc.net/problem/3273) ✅|
 
-## 📚 Week 3
+</details>
+
+<details>
+<summary>📚 Week 3 🔜</summary>
+
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 10448 | [유레카 이론](https://www.acmicpc.net/problem/10448) 🔜|
-| 11005 | [진법 변환 2](https://www.acmicpc.net/problem/11005) |
-| 11068 | [회문인 수](https://www.acmicpc.net/problem/11068) |
-| 3058 | [사탕 게임](https://www.acmicpc.net/problem/3058) |
+| 10448 | [유레카 이론](https://www.acmicpc.net/problem/10448) ✅|
+| 11005 | [진법 변환 2](https://www.acmicpc.net/problem/11005) ✅|
+| 11068 | [회문인 수](https://www.acmicpc.net/problem/11068) 🔜|
+| 3058 | [사탕 게임](https://www.acmicpc.net/problem/3058) 🔜|
 | 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) |
 
-## 📚 Week 4
+</details>
+
+<details>
+<summary>📚 Week 4</summary>
+
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
 | 1739 | [판화](https://www.acmicpc.net/problem/1739) |
@@ -51,7 +70,11 @@
 | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) |
 | 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) |
 
-## 📚 Week 5
+</details>
+
+<details>
+<summary>📚 Week 5</summary>
+
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
 | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) |
@@ -60,7 +83,11 @@
 | 2910 | [빈도 정렬](https://www.acmicpc.net/problem/2910) |
 | 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) |
 
-## 📚 Week 6
+</details>
+
+<details>
+<summary>📚 Week 6</summary>
+
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
 | 16713 | [Generic Queries](https://www.acmicpc.net/problem/16713) |
@@ -69,7 +96,11 @@
 | 17232 | [생명 게임](https://www.acmicpc.net/problem/17232) |
 | 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) |
 
-## 📚 Week 7
+</details>
+
+<details>
+<summary>📚 Week 7</summary>
+
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
 | 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) |
@@ -78,7 +109,11 @@
 | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) |
 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) |
 
-## 📚 Week 8
+</details>
+
+<details>
+<summary>📚 Week 8</summary>
+
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
 | 6236 | [용돈 관리](https://www.acmicpc.net/problem/6236) |
@@ -87,7 +122,11 @@
 | 2230 | [수 고르기](https://www.acmicpc.net/problem/2230) |
 | 12891 | [DNA 비밀번호](https://www.acmicpc.net/problem/12891) |
 
-## 📚 Week 9
+</details>
+
+<details>
+<summary>📚 Week 9</summary>
+
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
 | 2118 | [두 개의 탑](https://www.acmicpc.net/problem/2118) |
@@ -95,3 +134,5 @@
 | 17609 | [회문](https://www.acmicpc.net/problem/17609) |
 | 15831 | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
 | 16472 | [고냥이](https://www.acmicpc.net/problem/16472) |
+
+</details>
