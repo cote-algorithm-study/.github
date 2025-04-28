@@ -47,25 +47,25 @@
 </details>
 
 <details>
-<summary>📚 Week 3 🔜</summary>
+<summary>📚 Week 3 ✅ </summary>
 
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
 | 10448 | [유레카 이론](https://www.acmicpc.net/problem/10448) ✅|
 | 11005 | [진법 변환 2](https://www.acmicpc.net/problem/11005) ✅|
-| 11068 | [회문인 수](https://www.acmicpc.net/problem/11068) 🔜|
-| 3058 | [사탕 게임](https://www.acmicpc.net/problem/3058) 🔜|
-| 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) |
+| 11068 | [회문인 수](https://www.acmicpc.net/problem/11068) ✅|
+| 3058 | [사탕 게임](https://www.acmicpc.net/problem/3058) ✅|
+| 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) ✅|
 
 </details>
 
 <details>
-<summary>📚 Week 4</summary>
+<summary>📚 Week 4 🔜 </summary>
 
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 1739 | [판화](https://www.acmicpc.net/problem/1739) |
-| 2840 | [행운의 바퀴](https://www.acmicpc.net/problem/2840) |
+| 1739 | [판화](https://www.acmicpc.net/problem/1739) 🔜|
+| 2840 | [행운의 바퀴](https://www.acmicpc.net/problem/2840) 🔜|
 | 2817 | [ALPS식 투표](https://www.acmicpc.net/problem/2817) |
 | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) |
 | 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) |
