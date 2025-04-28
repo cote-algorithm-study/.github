@@ -64,7 +64,7 @@
 
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 1739 | [판화](https://www.acmicpc.net/problem/1739) 🔜|
+| 1730 | [판화](https://www.acmicpc.net/problem/1730) 🔜|
 | 2840 | [행운의 바퀴](https://www.acmicpc.net/problem/2840) 🔜|
 | 2817 | [ALPS식 투표](https://www.acmicpc.net/problem/2817) |
 | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) |
