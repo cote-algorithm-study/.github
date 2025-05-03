@@ -64,11 +64,11 @@
 
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 1730 | [판화](https://www.acmicpc.net/problem/1730) 🔜|
-| 2840 | [행운의 바퀴](https://www.acmicpc.net/problem/2840) 🔜|
-| 2817 | [ALPS식 투표](https://www.acmicpc.net/problem/2817) |
-| 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) |
-| 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) |
+| 1730 | [판화](https://www.acmicpc.net/problem/1730) ✅|
+| 2840 | [행운의 바퀴](https://www.acmicpc.net/problem/2840) ✅|
+| 2817 | [ALPS식 투표](https://www.acmicpc.net/problem/2817) ✅|
+| 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) ✅|
+| 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) 🔜 |
 
 </details>
 
@@ -77,8 +77,8 @@
 
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) |
-| 1302 | [베스트셀러](https://www.acmicpc.net/problem/1302) |
+| 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) 🔜 |
+| 1302 | [베스트셀러](https://www.acmicpc.net/problem/1302) 🔜 |
 | 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) |
 | 2910 | [빈도 정렬](https://www.acmicpc.net/problem/2910) |
 | 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) |
