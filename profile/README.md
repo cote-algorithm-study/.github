@@ -73,28 +73,28 @@
 </details>
 
 <details>
-<summary>📚 Week 5 🔜 </summary>
+<summary>📚 Week 5 ✅ </summary>
 
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
 | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) ✅ |
 | 1302 | [베스트셀러](https://www.acmicpc.net/problem/1302) ✅ |
-| 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) 🔜 |
-| 2910 | [빈도 정렬](https://www.acmicpc.net/problem/2910) 🔜 |
-| 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) 🔜 |
+| 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) ✅ |
+| 2910 | [빈도 정렬](https://www.acmicpc.net/problem/2910) ✅ |
+| 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) ✅ |
 
 </details>
 
 <details>
-<summary>📚 Week 6</summary>
+<summary>📚 Week 6🔜</summary>
 
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 16713 | [Generic Queries](https://www.acmicpc.net/problem/16713) 🔜 |
-| 11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) 🔜 |
-| 19951 | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) |
-| 17232 | [생명 게임](https://www.acmicpc.net/problem/17232) |
-| 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) |
+| 16713 | [Generic Queries](https://www.acmicpc.net/problem/16713) ✅ |
+| 11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) ✅ |
+| 19951 | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)✅ |
+| 17232 | [생명 게임](https://www.acmicpc.net/problem/17232) 🔜|
+| 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) 🔜|
 
 </details>
 
@@ -103,9 +103,9 @@
 
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) |
-| 2470 | [두 용액](https://www.acmicpc.net/problem/2470) |
-| 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) |
+| 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) 🔜|
+| 2470 | [두 용액](https://www.acmicpc.net/problem/2470) 🔜|
+| 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)🔜| 
 | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) |
 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) |
 
