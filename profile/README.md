@@ -93,8 +93,8 @@
 | 16713 | [Generic Queries](https://www.acmicpc.net/problem/16713) ✅ |
 | 11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) ✅ |
 | 19951 | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951)✅ |
-| 17232 | [생명 게임](https://www.acmicpc.net/problem/17232) 🔜|
-| 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) 🔜|
+| 17232 | [생명 게임](https://www.acmicpc.net/problem/17232) ✅|
+| 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) ✅|
 
 </details>
 
@@ -103,9 +103,9 @@
 
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
-| 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) 🔜|
-| 2470 | [두 용액](https://www.acmicpc.net/problem/2470) 🔜|
-| 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)🔜| 
+| 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) ✅|
+| 2470 | [두 용액](https://www.acmicpc.net/problem/2470) ✅|
+| 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)✅| 
 | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) |
 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) |
 
