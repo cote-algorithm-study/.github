@@ -86,7 +86,7 @@
 </details>
 
 <details>
-<summary>📚 Week 6🔜</summary>
+<summary>📚 Week 6✅</summary>
 
 | 문제 번호 | 문제 이름 |
 |-----------|-----------|
